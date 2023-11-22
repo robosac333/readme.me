@@ -1,2 +1,6 @@
 # readme.me
-First repository in this account
+
+
+- 👋 Hi, I’m Sachin Jadhav
+- 👀 I’m interested in Robotics
+- 🌱 I’m currently learning C++ and ROS
