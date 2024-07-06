@@ -25,7 +25,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="Matlab" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://docs.modalai.com/" target="_blank" rel="noreferrer"><img src="https://cdn.shopify.com/s/files/1/0101/1977/4259/files/ModalAI-logo-narrow-black_200x44.png?v=1613578686"alt="modalai" width="40" height="25"/> </a>
 <a href="https://pytorch.org/"target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="Pytorch" width="60" height="40"/></a>
 <a href="https://www.tensorflow.org/"target="_blank" rel="noreferer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="TensorFlow" width="60" height="40"/></a>
 <a href="https://robomimic.github.io/docs/introduction/getting_started.html"target="_blank" rel="noreferer"><img src="https://robomimic.github.io/assets/images/gallery_logo.png" alt="TensorFlow" width="60" height="40"/></a>
