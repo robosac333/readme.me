@@ -17,7 +17,7 @@
 <p align="left"> 
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="70" height="40"/> </a> 
 <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://classic.gazebosim.org/assets/logos/gazebo_vert_pos-faad8cc37ab336f850e549077ef5831e5098034532113b06328dfd70355fb8f7.svg" alt="Gazebo" width="60" height="50"/> </a> 
-<a href="https://www.universal-robots.com/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Universal_Robots#/media/File:Universal_robots_logo.svg" alt="UniversalRobots" width="40" height="40"/> </a> 
+<a href="https://www.universal-robots.com/" target="_blank" rel="noreferrer"> <img src="https://makkacorp-tec.com/wp-content/uploads/2022/06/Universal-Robots.jpg" alt="UniversalRobots" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
