@@ -31,10 +31,6 @@
 <a href="https://robosuite.ai/"target="_blank" rel="noreferer"><img src="https://robosuite.ai/assets/images/gallery_logo.jpg" alt="TensorFlow" width="60" height="40"/></a>
 <a href="https://mujoco.org/"target="_blank" rel="noreferer"><img src="https://simulately.wiki/assets/images/MuJoCo-aa78ba528220940f0a44794619ab2e24.jpg" alt="Mujoco" width="100" height="40"/></a>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robosac333" alt="robosac333" /></a> </p>
-
   
   <!---
 dmdarrow4597/dmdarrow4597 is a ✨ special ✨ repository because its `README.m![index]
