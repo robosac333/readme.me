@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sachin Jadhav, Check out my <a href="https://sjd3333.wixsite.com/sachinjadha24">Website</a>
-- 👀 I’m interested in ... Robot control, UAVs, Mobile robotics
+- 👀 I’m interested in ... Manipulators, Robot control, Mobile robotics
 - 🌱 I’m currently learning ... Deep Learning for Computer Vision, Robot Learning and Software Development for Robotics
 - 💞️ I’m looking to collaborate on ... projects related to Mobile and Manipulator Robotics
 - 👨‍🔬 I'm currently working with ... <a href="https://ceee.umd.edu/daikinlab">Daikin Energy Innovation lab</a> on <a href = "https://ceee.umd.edu/about/roco">Automation of HVAC systems </a>
