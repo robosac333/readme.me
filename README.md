@@ -39,6 +39,12 @@ AI and ML Projects
 </a> 
   <a href="https://github.com/robosac333/Time-Series-Analysis-Drill-Bit"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Time-Series-Analysis-Drill-Bit&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Time-Series-Analysis">
 </a>
+  <a href="https://github.com/robosac333/Object-Detection-and-Tracking"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Object-Detection-and-Tracking&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Object-Detection-and-Tracking">
+</a>
+  <a href="https://github.com/robosac333/Excited_or_Bored_Detector"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Excited_or_Bored_Detector&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Excited_or_Bored_Detector">
+</a>
+  <a href="https://github.com/robosac333/Object-Detection-using-CNN"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Object-Detection-using-CNN&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Object-Detection-using-CNN">
+</a>
 </p>
   <!---
 dmdarrow4597/dmdarrow4597 is a ✨ special ✨ repository because its `README.m![index]
