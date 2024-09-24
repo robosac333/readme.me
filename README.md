@@ -10,8 +10,6 @@
 
 <a href="https://www.linkedin.com/in/imsachinjadhav/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-![Sachin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=robosac333&show_icons=true&theme=radical#gh-dark-mode-only)
-
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=robosac333&show_icons=true&locale=en&layout=compact" alt="robosac333" /></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -31,7 +29,13 @@
 <a href="https://robosuite.ai/"target="_blank" rel="noreferer"><img src="https://robosuite.ai/assets/images/gallery_logo.jpg" alt="TensorFlow" width="60" height="40"/></a>
 <a href="https://mujoco.org/"target="_blank" rel="noreferer"><img src="https://simulately.wiki/assets/images/MuJoCo-aa78ba528220940f0a44794619ab2e24.jpg" alt="Mujoco" width="100" height="40"/></a>
 
-  
+<h2 align="center">
+AI and ML Projects
+</h2>
+
+<p align="center">
+  <a href="https://github.com/robosac333/Dynamic-Deep-RRT-Star"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Dynamic-Deep-RRT-Star&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="stereo-vision"></a>
+</p>
   <!---
 dmdarrow4597/dmdarrow4597 is a ✨ special ✨ repository because its `README.m![index]
 d` (this file) appears on your GitHub profile.
