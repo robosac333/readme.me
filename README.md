@@ -35,8 +35,7 @@ AI and ML Projects
 
 <p align="center">
   <a href="https://github.com/robosac333/Dynamic-Deep-RRT-Star"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Dynamic-Deep-RRT-Star&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Dynamic-Deep-RRT-Star"></a>
-  <a href="https://github.com/robosac333/Realtime_segmentation_DeepLab_V3_Plus"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Realtime_segmentation_DeepLab_V3_Plus
-&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Real_Time_Segmentation">
+  <a href="https://github.com/robosac333/Realtime_segmentation_DeepLab_V3_Plus"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Realtime_segmentation_DeepLab_V3_Plus&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Real_Time_Segmentation">
 </a> 
 </p>
   <!---
