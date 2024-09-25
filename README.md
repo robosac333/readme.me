@@ -30,7 +30,7 @@
 <a href="https://mujoco.org/"target="_blank" rel="noreferer"><img src="https://simulately.wiki/assets/images/MuJoCo-aa78ba528220940f0a44794619ab2e24.jpg" alt="Mujoco" width="100" height="40"/></a>
 
 <h2 align="center">
-AI and ML Projects
+Computer Vision / AI and ML Projects
 </h2>
 
 <p align="center">
@@ -38,6 +38,8 @@ AI and ML Projects
   <a href="https://github.com/robosac333/Realtime_segmentation_DeepLab_V3_Plus"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Realtime_segmentation_DeepLab_V3_Plus&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Real_Time_Segmentation">
 </a> 
   <a href="https://github.com/robosac333/Time-Series-Analysis-Drill-Bit"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Time-Series-Analysis-Drill-Bit&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Time-Series-Analysis">
+</a>
+  <a href="https://github.com/robosac333/Visual-Odometry"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Visual-Odometry&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Visual-Odometry">
 </a>
   <a href="https://github.com/robosac333/Object-Detection-and-Tracking"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Object-Detection-and-Tracking&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Object-Detection-and-Tracking">
 </a>
