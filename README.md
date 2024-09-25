@@ -41,6 +41,7 @@ Computer Vision / AI and ML Projects
   <a href="https://github.com/robosac333/Object-Detection-and-Tracking"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Object-Detection-and-Tracking&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Object-Detection-and-Tracking">
 </a>
   <a href="https://github.com/robosac333/Stereo_Camera_Robot_Navigation"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Stereo_Camera_Robot_Navigation&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Stereo_Camera_Robot_Navigation">
+  <a href="https://github.com/robosac333/Contour-Detection-ROS"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Contour-Detection-ROS&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Contour-Detection-ROS">
 </a>
   <a href="https://github.com/robosac333/Image-Stitching"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Image-Stitching&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Image-Stitching">
 </a>
