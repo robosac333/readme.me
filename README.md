@@ -40,6 +40,10 @@ Computer Vision / AI and ML Projects
 </a>
   <a href="https://github.com/robosac333/Object-Detection-and-Tracking"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Object-Detection-and-Tracking&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Object-Detection-and-Tracking">
 </a>
+  <a href="https://github.com/robosac333/Stereo_Camera_Robot_Navigation"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Stereo_Camera_Robot_Navigation&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Stereo_Camera_Robot_Navigation">
+</a>
+  <a href="https://github.com/robosac333/Image-Stitching"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Image-Stitching&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Image-Stitching">
+</a>
   <a href="https://github.com/robosac333/Structure-from-Motion-and-Bundle-Adjustment"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Structure-from-Motion-and-Bundle-Adjustment&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Structure-from-Motion-and-Bundle-Adjustment">
 </a>
   <a href="https://github.com/robosac333/Excited_or_Bored_Detector"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Excited_or_Bored_Detector&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Excited_or_Bored_Detector">
@@ -56,10 +60,15 @@ Planning / AI and ML Projects
   <a href="https://github.com/robosac333/Dynamic-Deep-RRT-Star"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Dynamic-Deep-RRT-Star&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Dynamic-Deep-RRT-Star"></a>
   <a href="https://github.com/robosac333/Time-Series-Analysis-Drill-Bit"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Time-Series-Analysis-Drill-Bit&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Time-Series-Analysis">
 </a>
+  <a href="https://github.com/robosac333/Franka_Panda_Moveit2_Pick_Place"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Franka_Panda_Moveit2_Pick_Place&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Franka_Panda_Moveit2_Pick_Place">
+</a>
+  <a href="https://github.com/robosac333/A-star-on-turtlebot"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=A-star-on-turtlebot&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="A-star-on-turtlebot">
+</a>
   <a href="https://github.com/robosac333/Breadth-First_Search"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Breadth-First_Search&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Breadth-First_Search">
 </a>
   <a href="https://github.com/robosac333/Djikstra"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Djikstra&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Djikstra">
 </a>
+     
 </p>
 
   <!---
