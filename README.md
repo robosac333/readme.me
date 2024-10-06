@@ -34,6 +34,9 @@ Computer Vision / AI and ML Projects
 </h2>
 
 <p align="center">
+  <a href="https://github.com/robosac333/Depth-Estimation-using-Stereo-Camera"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Depth-Estimation-using-Stereo-Camera&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Depth-Estimation-using-Stereo-Camera">
+</a> 
+<p align="center">
   <a href="https://github.com/robosac333/Realtime_segmentation_DeepLab_V3_Plus"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Realtime_segmentation_DeepLab_V3_Plus&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Real_Time_Segmentation">
 </a> 
   <a href="https://github.com/robosac333/Visual-Odometry"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=robosac333&repo=Visual-Odometry&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Visual-Odometry">
